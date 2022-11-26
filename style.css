@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(221, 19, 130);
+    font-family: 'Lobster', serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.photo {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid black;
+    background-color: white;
+}
+
+p, ul, ol {
+    text-align: left;
+    background-color: white;
+    margin: 10px;
+    border: 2px double black;
+}
+
+ul {
+    width: 250px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+
+.redColor {
+    color:rgb(41, 6, 6);
+    padding-left: 10%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-right: 20px;
+    text-align: right;
+}
